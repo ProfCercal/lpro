@@ -1,5 +1,5 @@
 algoritmo "Exercicio_6"
-// Função : Algoritmo retorna o IMC conforme o peso e altura informados pelo usuário.
+// Função : Algoritmo que retorna o IMC conforme o peso e altura informados pelo usuário.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

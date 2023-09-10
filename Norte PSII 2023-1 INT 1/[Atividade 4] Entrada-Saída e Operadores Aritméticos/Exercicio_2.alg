@@ -1,5 +1,5 @@
 algoritmo "Exercicio_2"
-// Função : Algoritmo solicita ao usuário que informe um número e, posteriormente, exibe em tela o predecessor e o sucessor do número informado.
+// Função : Algoritmo que solicita ao usuário que informe um número e, posteriormente, exibe em tela o predecessor e o sucessor do número informado.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

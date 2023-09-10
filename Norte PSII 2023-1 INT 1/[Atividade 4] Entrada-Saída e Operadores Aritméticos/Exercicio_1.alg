@@ -1,5 +1,5 @@
 algoritmo "Exercicio_1"
-// Função : Algoritmo solicita nome e data de nascimento do usuário e depois exibi as informações na tela.
+// Função : Algoritmo que solicita nome e data de nascimento do usuário e depois exibi as informações na tela.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

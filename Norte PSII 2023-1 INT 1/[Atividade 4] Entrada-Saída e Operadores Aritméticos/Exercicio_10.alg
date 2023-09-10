@@ -1,5 +1,5 @@
 algoritmo "Exercicio_10"
-// Função : Algoritmo realiza a conversão da temperatura em Fahrenheit (ºF), informada pelo usuário, para Celsius (ºC).
+// Função : Algoritmo que realiza a conversão da temperatura em Fahrenheit (ºF), informada pelo usuário, para Celsius (ºC).
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

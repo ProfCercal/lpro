@@ -1,5 +1,5 @@
 algoritmo "Exercicio_9"
-// Função : Algoritmo calcula o valor de venda conforme valor de compra informado pelo usuário.
+// Função : Algoritmo para calcular o valor de venda conforme valor de compra informado pelo usuário.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

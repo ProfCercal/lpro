@@ -1,5 +1,5 @@
 algoritmo "Exercicio_4"
-// Função : Algoritmo calcula o volume de um recipiente conforme raio e altura informados pelo usuário.
+// Função : Algoritmo para calcular o volume de um recipiente conforme raio e altura informados pelo usuário.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

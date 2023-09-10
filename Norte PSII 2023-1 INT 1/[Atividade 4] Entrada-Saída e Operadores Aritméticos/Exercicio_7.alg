@@ -1,5 +1,5 @@
 algoritmo "Exercicio_7"
-// Função : Algoritmo que calcula a conversão de real para dólar conforme cotação e quantia em dinheiro informados.
+// Função : Algoritmo para calcular a conversão de real para dólar conforme cotação e quantia em dinheiro informados.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

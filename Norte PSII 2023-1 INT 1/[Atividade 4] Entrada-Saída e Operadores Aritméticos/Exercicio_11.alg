@@ -1,5 +1,5 @@
 algoritmo "Exercicio_11"
-// Função : Algoritmo calcula o valor de cada parcela de uma compra conforme o total da compra e o número de parcelas desejadas, ambas informadas pelo usuário.
+// Função : Algoritmo para calcular o valor de cada parcela de uma compra conforme o total da compra e o número de parcelas desejadas, ambas informadas pelo usuário.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

@@ -1,5 +1,5 @@
 algoritmo "Exercicio_13"
-// Função : Algoritmo calcula o rendimento, após três anos, de um investimento conforme valor inicial informado pelo usuário.
+// Função : Algoritmo para calcular o rendimento, após três anos, de um investimento conforme valor inicial informado pelo usuário.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

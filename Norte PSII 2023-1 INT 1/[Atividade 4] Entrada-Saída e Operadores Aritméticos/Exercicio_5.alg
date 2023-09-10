@@ -1,5 +1,5 @@
 algoritmo "Exercicio_5"
-// Função : Algoritmo calcula a área de um quadrado conforme valor do lado informado pelo usuário.
+// Função : Algoritmo para calcular a área de um quadrado conforme valor do lado informado pelo usuário.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

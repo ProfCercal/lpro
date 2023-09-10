@@ -1,5 +1,5 @@
 algoritmo "Exercicio_3"
-// Função : Algoritmo solicita ao usuário que informe os lucros dos meses de janeiro, fevereiro e março e depois retorna a média.
+// Função : Algoritmo que solicita ao usuário que informe os lucros dos meses de janeiro, fevereiro e março e depois retorna a média.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações
