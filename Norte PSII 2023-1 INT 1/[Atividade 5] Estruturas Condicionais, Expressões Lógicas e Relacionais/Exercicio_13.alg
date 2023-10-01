@@ -1,5 +1,11 @@
 algoritmo "Exercicio_13"
-// Função: Algoritmo para verificar se o ano informado pelo usuário é bissexto.
+// Função:
+// 13.  Faça um programa que verifique se o ano é bissexto.
+//      O ano deve ser informado pelo usuário com quatro dígitos e não pode ser menor ou igual a zero.
+//      Para saber se o ano é bissexto:
+//      a. Deve ser divisível por quatro e não divisível por cem;
+//                              OU
+//      b. Deve ser divisível por quatrocentos.
 // Autor: Éwerton de Oliveira Cercal
 // Data: 09/09/2023
 

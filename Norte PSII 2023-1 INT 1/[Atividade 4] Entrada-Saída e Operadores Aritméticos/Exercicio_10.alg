@@ -1,5 +1,8 @@
 algoritmo "Exercicio_10"
-// Função : Algoritmo que realiza a conversão da temperatura em Fahrenheit (ºF), informada pelo usuário, para Celsius (ºC).
+// Função :
+// 10.  Faça um pseudocódigo que receba um valor de temperatura em Fahrenheit (ºF) e converta para Celsius (ºC).
+//      Fórmula do cálculo para essa conversão: temperatura em Celsius é igual a temperatura em Fahrenheit subtraído o valor de trinta e dois, multiplicado por cinco, dividido por nove.
+//      Como resultado, mostre a seguinte mensagem: temperatura em Fahrenheit, "ºF equivalem a ", temperatura em Celsius, "ºC".
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

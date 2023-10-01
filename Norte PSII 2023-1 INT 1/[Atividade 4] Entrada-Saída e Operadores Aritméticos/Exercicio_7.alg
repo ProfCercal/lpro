@@ -1,5 +1,8 @@
 algoritmo "Exercicio_7"
-// Função : Algoritmo para calcular a conversão de real para dólar conforme cotação e quantia em dinheiro informados.
+// Função :
+// 7.   Faça um pseudocódigo que funcione como um conversor de real para dólar.
+//      O usuário deverá informar o valor do câmbio do dólar naquele dia e o valor em reais.
+//      Como saída, o pseudocódigo deverá mostrar quantos dólares equivalem a quantia em reais informada.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

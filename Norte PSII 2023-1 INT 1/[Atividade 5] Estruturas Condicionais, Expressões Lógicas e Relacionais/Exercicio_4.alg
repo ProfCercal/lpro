@@ -1,5 +1,7 @@
 algoritmo "Exercicio_4"
-// Função : Algoritmo para verificar qual dos números informados pelo usuário é o maior (ou se são iguais).
+// Função :
+// 4.   Faça um pseudocódigo que peça ao usuário que informe dois números e mostre qual é o maior deles.
+//      Caso sejam iguais, informar.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 09/09/2023
 // Seção de Declarações

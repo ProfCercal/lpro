@@ -1,5 +1,12 @@
 algoritmo "Exercício 8"
-// Função : Algoritmo que exibi em tela diversas operações aritméticas conforme dois números inteiros informados pelo usuário.
+// Função :
+// 8.   Faça um pseudocódigo que receba dois números inteiros informados pelo usuário e mostre o resultado das seguintes operações:
+//      a. Soma dos dois números;
+//      b. Subtração do primeiro pelo segundo;
+//      c. Multiplicação dos dois números;
+//      d. Divisão do primeiro número pelo segundo;
+//      e. O primeiro número elevado ao segundo número;
+//      f. O resto da divisão do primeiro número pelo segundo.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

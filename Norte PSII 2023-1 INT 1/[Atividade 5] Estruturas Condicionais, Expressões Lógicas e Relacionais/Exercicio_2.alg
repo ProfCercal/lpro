@@ -1,5 +1,7 @@
 algoritmo "Exercicio_2"
-// Função : Algoritmo para verificar se o número informado é par ou ímpar.
+// Função :
+// 2.   Faça um pseudocódigo que solicite um número e diga se ele é par ou ímpar.
+//      Considere o número zero como par.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 09/09/2023
 // Seção de Declarações

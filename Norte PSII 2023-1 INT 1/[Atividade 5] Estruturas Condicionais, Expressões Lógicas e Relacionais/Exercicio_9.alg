@@ -1,5 +1,6 @@
 algoritmo "Exercicio_9"
-// Função : Algoritmo para verificar qual dos três números informados pelo usuário é o maior.
+// Função :
+// 9.   Faça um pseudocódigo que peça três números e diga qual o maior entre eles.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 09/09/2023
 // Seção de Declarações

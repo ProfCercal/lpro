@@ -1,5 +1,7 @@
 algoritmo "Exercicio_3"
-// Função : Algoritmo para calcular o valor total da compra de maçãs importadas conforme a quantidade.
+// Função :
+// 3.   As maçãs importadas custam R$2,30 reais cada se forem compradas menos de uma dúzia e R$1,95 reais se forem compradas uma dúzia ou mais.
+//      Faça um pseudocódigo que leia o número de maçãs compradas, calcule e escreva o custo total da compra.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 09/09/2023
 // Seção de Declarações

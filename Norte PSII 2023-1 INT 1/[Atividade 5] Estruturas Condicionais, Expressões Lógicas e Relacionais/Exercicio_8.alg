@@ -1,5 +1,9 @@
 algoritmo "Exercicio_8"
-// Função : Algoritmo para classificar qual a classe eleitoral conforme a idade informada pelo usuário.
+// Função :
+// 8.   Faça um pseudocódigo que leia a idade de uma pessoa e informe a sua condição eleitoral:
+//      a. Não eleitor: abaixo de dezesseis anos;
+//      b. Eleitor facultativo: entre dezesseis e dezoito anos ou acima de sessenta e cinco anos;
+//      c. Eleitor obrigatório: entre dezoito e sessenta e cinco anos.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 09/09/2023
 // Seção de Declarações

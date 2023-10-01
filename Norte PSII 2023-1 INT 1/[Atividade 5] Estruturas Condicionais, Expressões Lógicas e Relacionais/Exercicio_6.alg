@@ -1,5 +1,10 @@
 algoritmo "Exercicio_6"
-// Função : Algoritmo para calcular a média de um aluno conforme suas quatro notas informadas e, depois, exibi em tela se o mesmo está aprovado ou não.
+// Função :
+// 6.   Faça um pseudocódigo que calcule a média de um aluno tendo como dados de entrada quatro notas.
+//      Mostre uma mensagem na tela de acordo com a média, considerando:
+//      a. De zero a dois - reprovado;
+//      b. De dois até seis vírgula nove - em exame;
+//      c. Igual ou acima de sete - aprovado.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 09/09/2023
 // Seção de Declarações

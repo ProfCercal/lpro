@@ -1,5 +1,6 @@
 algoritmo "Exercicio_1"
-// Função : Algoritmo para verificar se um número informado é positivo ou negativo.
+// Função :
+// 1.   Faça um pseudocódigo que solicite um número e diga se ele é positivo, negativo ou nulo.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 09/09/2023
 // Seção de Declarações

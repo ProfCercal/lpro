@@ -1,5 +1,7 @@
 algoritmo "Exercicio_3"
-// Função : Algoritmo que solicita ao usuário que informe os lucros dos meses de janeiro, fevereiro e março e depois retorna a média.
+// Função :
+// 3.   Faça um pseudocódigo que solicite os valores do lucro de uma loja nos meses de janeiro, fevereiro e março.
+//      Calcule a média de lucro obtida e mostre ao usuário.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

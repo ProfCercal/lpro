@@ -1,5 +1,15 @@
 algoritmo "Exercicio_14"
-// Função: Algoritmo para calcular o valor a ser pago pelo cliente com base no tipo de combustível e quantidade de litros informados pelo usuário.
+// Função:
+// 14.  Um posto está vendendo combustíveis com a seguinte tabela de descontos (desenvolva utilizando condicional "SE-SENAO" aninhado):
+//
+//      Álcool      |   até vinte litros, desconto de três por cento por litro
+//      Álcool      |   acima de vinte litros, desconto de cinco por cento por litro
+//      ----------------------------------------------------------------------------
+//      Gasolina    |   até vinte litros, desconto de quatro por cento por litro
+//      Gasolina    |   acima de vinte litros, desconto de seis por cento por litro
+//
+//      Faça um pseudocódigo que leia o número de litros vendidos e o tipo de combustível (A - Álcool, G - Gasolina).
+//      Calcule e mostre o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é de R$3,30 reais e o preço do litro do álcool é R$2,90 reais.
 // Autor: Éwerton de Oliveira Cercal
 // Data: 09/09/2023
 

@@ -1,5 +1,7 @@
 algoritmo "Exercicio_5"
-// Função : Algoritmo para calcular a área de um quadrado conforme valor do lado informado pelo usuário.
+// Função :
+// 5.   Faça um pseudocódigo que calcule a área de um quadrado conforme a medida do lado informado pelo usuário.
+//      Lembre-se que a área de um quadrado é dada pela medida de seu lado elevado quadrado.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

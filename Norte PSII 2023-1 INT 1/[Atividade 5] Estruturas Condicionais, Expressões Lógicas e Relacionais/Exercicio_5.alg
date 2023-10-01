@@ -1,5 +1,8 @@
 algoritmo "Exercicio_5"
-// Função : Algoritmo para calcular o valor da multa que um usuário deverá pagar conforme a quantidade de dias informada.
+// Função :
+// 5.   Faça um pseudocódigo que calcule o valor da multa que um usuário deverá pagar na biblioteca em caso de atraso, solicitando a quantidade de dias em atraso.
+//      Considere que, se ele atrasou o material em sete dias ou mais, deverá pagar um valor de R$5,00 reais por dia de atraso.
+//      Se atrasou menos do que sete dias, deverá pagar R$2,50 reais por dia de atraso.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 09/09/2023
 // Seção de Declarações

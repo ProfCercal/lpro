@@ -1,5 +1,8 @@
 algoritmo "Exercicio_2"
-// Função : Algoritmo que solicita ao usuário que informe um número e, posteriormente, exibe em tela o predecessor e o sucessor do número informado.
+// Função :
+// 2.   Faça um pseudocódigo e um fluxograma que peça ao usuário um número inteiro.
+//      A partir dessa entrada, mostre na tela: o número, seu antecessor e seu sucessor.
+//      Por exemplo: "O número informado foi 30, o antecessor é 29 e o sucessor é 31".
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

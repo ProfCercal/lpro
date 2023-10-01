@@ -1,5 +1,16 @@
 algoritmo "Exercicio_10"
-// Função : Algoritmo para classificar competidores conforme a idade fornecida pelo usuário.
+// Função :
+// 10.  A confederação brasileira de natação irá promover eliminatórias para o próximo mundial.
+//      Faça um pseudocódigo que receba a idade de um competidor e determine (mostre em tela) a sua categoria segundo a tabela a seguir:
+//
+//      Categoria   |   Idade
+//      ------------|------------
+//      Infantil A  |   Cinco a sete anos
+//      Infantil B  |   Oito a dez anos
+//      Juvenil A   |   Onze a treze anos
+//      Juvenil B   |   Quatorze a dezessete anos
+//      Sênior      |   Igual ou acima de dezoito anos
+//
 // Autor : Éwerton de Oliveira Cercal
 // Data : 09/09/2023
 // Seção de Declarações

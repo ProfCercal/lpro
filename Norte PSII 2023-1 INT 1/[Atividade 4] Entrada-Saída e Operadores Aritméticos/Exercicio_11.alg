@@ -1,5 +1,8 @@
 algoritmo "Exercicio_11"
-// Função : Algoritmo para calcular o valor de cada parcela de uma compra conforme o total da compra e o número de parcelas desejadas, ambas informadas pelo usuário.
+// Função :
+// 11.  Faça um pseudocódigo que peça para o usuário informar o valor total de sua compra em uma loja e em quantas vezes ele deseja parcelar a compra.
+//      Calcule o valor de cada parcela a ser paga e mostre a seguinte mensagem na tela:
+//      "Sua compra foi de R$", valor total, " reais e você optou por parcelar em ", número de parcelas, " vezes. Sua parcela mensal é de R$", valor da parcela, " reais."
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

@@ -1,5 +1,15 @@
 algoritmo "Exercicio_11"
-// Função: Algoritmo para calcular o valor da venda com base no valor de compra informado pelo usuário.
+// Função:
+// 11.  Um comerciante calcula o valor manualmente da venda de um produto de acordo com as condições a seguir.
+//      Faça um pseudocódigo que calcule automaticamente o valor da venda, tendo como dado de entrada o valor da compra:
+//
+//      Valor de compra                                             |   Valor de venda
+//      ----------------------------------------------------------------------------------------------------------------
+//      Valor menor que dez reais                                   -   Lucro de setenta por cento
+//      Valor maior ou igual a dez e menor que trinta reais         -   Lucro de cinquenta por cento
+//      Valor maior ou igual a trinta e menor que cinquenta reais   -   Lucro de quarenta por cento
+//      Valor maior ou igual a cinquenta reais                      -   Lucro de trinta por cento
+//
 // Autor: Éwerton de Oliveira Cercal
 // Data: 09/09/2023
 

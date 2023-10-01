@@ -1,5 +1,7 @@
 algoritmo "Exercicio_6"
-// Função : Algoritmo que retorna o IMC conforme o peso e altura informados pelo usuário.
+// Função :
+// 6.   Faça um pseudocódigo que calcule e mostre o IMC do usuário, a partir de seu peso e altura.
+//      O cálculo do IMC é dado por: peso dividido pela altura elevada ao quadrado.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

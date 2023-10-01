@@ -1,5 +1,8 @@
 algoritmo "Exercicio_13"
-// Função : Algoritmo para calcular o rendimento, após três anos, de um investimento conforme valor inicial informado pelo usuário.
+// Função :
+// 13.  Faça um pseudocódigo para saber quanto o usuário irá receber após realizar um investimento em um banco.
+//      O pseudocódigo deve recebe o valor que o usuário investiu e mostrar quanto dinheiro ele terá após três anos de investimento.
+//      O banco oferece uma taxa de juros simples de cinco por cento ao ano.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações

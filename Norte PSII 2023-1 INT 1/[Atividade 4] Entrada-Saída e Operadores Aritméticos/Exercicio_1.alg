@@ -1,5 +1,8 @@
 algoritmo "Exercicio_1"
-// Função : Algoritmo que solicita nome e data de nascimento do usuário e depois exibi as informações na tela.
+// Função :
+// 1.   Faça um pseudocódigo e um fluxograma que solicite o nome e a data de nascimento do usuário.
+//      Mostre na tela a mensagem:
+//      "Seu nome é ", nome do usuário, " e você nasceu em ", data de nascimento do usuário.
 // Autor : Éwerton de Oliveira Cercal
 // Data : 02/09/2023
 // Seção de Declarações
