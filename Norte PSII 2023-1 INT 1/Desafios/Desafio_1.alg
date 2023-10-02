@@ -1,5 +1,6 @@
-algoritmo "FibonacciPrimos"
-// Função: Gera os números Fibonacci num dado intervalo e exibe quais são primos.
+algoritmo "Desafio_1"
+// Função:
+// 1.   Escreva um algoritmo que encontre e exiba os números de Fibonacci em um intervalo específico mostrando somente aqueles que são primos.
 // Autor: Éwerton de Oliveira Cercal
 // Data: 11/09/2023
 // Seção de Declarações
