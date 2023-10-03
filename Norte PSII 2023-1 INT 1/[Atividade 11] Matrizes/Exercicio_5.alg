@@ -10,36 +10,40 @@ algoritmo "Exercicio_5"
 // Data : 29/09/2023
 // Seção de Declarações
 var
-matriz: vetor[1..3, 1..4] de real
-totalVendasTrimestre: real
-totalVendasMes: vetor[1..3] de real
-totalVendasPrimeiraSemana: vetor[1..3] de real
-i, j: inteiro
+    matrizVendas: vetor[1..3, 1..4] de real
+    totalVendasTrimestre: real
+    totalVendasMes: vetor[1..3] de real
+    totalVendasPrimeiraSemana: vetor[1..3] de real
+    mes, semana: inteiro
 inicio
 // Seção de Comandos
-totalVendasTrimestre <- 0
+    totalVendasTrimestre <- 0
 
-Para i de 1 ate 3 faca
-totalVendasMes[i] <- 0
-totalVendasPrimeiraSemana[i] <- 0
-Para j de 1 ate 4 faca
-Escreva("Informe o valor das vendas do mês ", i, ", semana ", j, ": ")
-Leia(matriz[i][j])
-totalVendasTrimestre <- totalVendasTrimestre + matriz[i][j]
-totalVendasMes[i] <- totalVendasMes[i] + matriz[i][j]
-Se j = 1 entao
-totalVendasPrimeiraSemana[i] <- totalVendasPrimeiraSemana[i] + matriz[i][j]
-FimSe
-FimPara
-FimPara
+    para mes de 1 ate 3 faca
+        totalVendasMes[mes] <- 0
+        para semana de 1 ate 4 faca
+            escreval("Informe o valor das vendas do mês ", mes, ", semana ", semana, ": ")
+            leia(matrizVendas[mes,semana])
 
-Escreva("a. Total de vendas do trimestre: ", totalVendasTrimestre, "\n")
-Escreva("b. Total vendido em cada mês:\n")
-Para i de 1 ate 3 faca
-Escreva("   Mês ", i, ": ", totalVendasMes[i], "\n")
-FimPara
-Escreva("c. Total vendido em todas as primeiras semanas de cada mês:\n")
-Para i de 1 ate 3 faca
-Escreva("   Mês ", i, ": ", totalVendasPrimeiraSemana[i], "\n")
-FimPara
+            totalVendasTrimestre <- totalVendasTrimestre + matrizVendas[mes,semana]
+            totalVendasMes[mes] <- totalVendasMes[mes] + matrizVendas[mes,semana]
+
+            se semana = 1 entao
+                totalVendasPrimeiraSemana[mes] <- totalVendasPrimeiraSemana[mes] + matrizVendas[mes,semana]
+            fimse
+        fimpara
+    fimpara
+
+    escreval("a. Total de vendas do trimestre: R$", totalVendasTrimestre:0:2, " reais.")
+    escreval("b. Total vendido em cada mês: ")
+
+    para mes de 1 ate 3 faca
+        escreval("Mês ", mes, ": R$", totalVendasMes[mes], " reais.")
+    fimpara
+
+    escreval("c. Total vendido em todas as primeiras semanas de cada mês:")
+
+    para mes de 1 ate 3 faca
+        escreval("Mês ", mes, ": R$", totalVendasPrimeiraSemana[mes], " reais.")
+    fimpara
 fimalgoritmo

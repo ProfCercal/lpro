@@ -19,32 +19,32 @@ var
     matrizJogos: vetor[1..3, 1..3] de inteiro
     maiorPontuacao: inteiro
     rodadaMaiorPontuacao: inteiro
-    i, j: inteiro
+    rodada, jogo: inteiro
 inicio
 // seção de Comandos
-    para i de 1 ate 3 faca
-        para j de 1 ate 3 faca
-            escreval("Informe a pontuação do ", j, "º jogo da ", i, "ª rodada: ")
-            leia(matrizJogos[i,j])
+    para rodada de 1 ate 3 faca
+        para jogo de 1 ate 3 faca
+            escreval("Informe a pontuação do ", jogo, "º jogo da ", rodada, "ª rodada: ")
+            leia(matrizJogos[rodada,jogo])
         fimpara
     fimpara
 
     maiorPontuacao <- matrizJogos[1][1]
     rodadaMaiorPontuacao <- 1
 
-    para i de 1 ate 3 faca
-        para j de 1 ate 3 faca
-            se matrizJogos[i,j] > maiorPontuacao entao
-                maiorPontuacao <- matrizJogos[i,j]
-                rodadaMaiorPontuacao <- i
+    para rodada de 1 ate 3 faca
+        para jogo de 1 ate 3 faca
+            se matrizJogos[rodada,jogo] > maiorPontuacao entao
+                maiorPontuacao <- matrizJogos[rodada,jogo]
+                rodadaMaiorPontuacao <- rodada
             fimse
         fimpara
     fimpara
 
     escreval("Pontuações dos jogos:")
-    para i de 1 ate 3 faca
-        para j de 1 ate 3 faca
-            escreva(matrizJogos[i,j], " ")
+    para rodada de 1 ate 3 faca
+        para jogo de 1 ate 3 faca
+            escreva(matrizJogos[rodada,jogo], " ")
         fimpara
         escreval(" ")
     fimpara

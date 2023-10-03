@@ -9,7 +9,7 @@ algoritmo "Exercicio_4"
 // Data : 29/09/2023
 // Seção de Declarações
 var
-    matriz: vetor[1..4, 1..4] de inteiro
+    matrizA: vetor[1..4, 1..4] de inteiro
     somaLinhasPares: inteiro
     somaLinha2: inteiro
     i, j: inteiro
@@ -20,25 +20,25 @@ inicio
 
     para i de 1 ate 4 faca
         para j de 1 ate 4 faca
-            matriz[i,j] <- randi(100)
-            escreva(matriz[i,j], " ")
+            matrizA[i,j] <- randi(100)
+            escreva(matrizA[i,j], " ")
 
             se i % 2 = 0 entao
-                somaLinhasPares <- somaLinhasPares + matriz[i,j]
+                somaLinhasPares <- somaLinhasPares + matrizA[i,j]
             fimse
 
             se i = 2 entao
-                somaLinha2 <- somaLinha2 + matriz[i,j]
+                somaLinha2 <- somaLinha2 + matrizA[i,j]
             fimse
         fimpara
         escreval(" ")
     fimpara
 
     escreval("a. Soma dos elementos das linhas pares: ", somaLinhasPares, ";")
-    escreval("b. Primeiro elemento da matriz: ", matriz[1,1], " e último elemento: ", matriz[4,4], ";")
+    escreval("b. Primeiro elemento da matrizA: ", matrizA[1,1], " e último elemento: ", matrizA[4,4], ";")
     escreval("c. Soma dos elementos da linha 2: ", somaLinha2, ";")
     escreval("d. Elementos da diagonal principal: ")
     para i de 1 ate 4 faca
-        escreva(matriz[i,i], " ")
+        escreva(matrizA[i,i], " ")
     fimpara
 fimalgoritmo

@@ -6,14 +6,14 @@ algoritmo "Exercicio_3"
 // Data : 29/09/2023
 // Seção de Declarações
 var
-    matriz: vetor[1..3, 1..3] de inteiro
+    matrizA: vetor[1..3, 1..3] de inteiro
     i, j, linhaEscolhida: inteiro
 inicio
 // Seção de Comandos
     para i de 1 ate 3 faca
         para j de 1 ate 3 faca
             escreval("Informe o valor da posição [", i, "][", j, "]: ")
-            leia(matriz[i,j])
+            leia(matrizA[i,j])
         fimpara
     fimpara
 
@@ -22,6 +22,6 @@ inicio
 
     escreval("Valores da linha ", linhaEscolhida, ": ")
     para j de 1 ate 3 faca
-        escreva(matriz[linhaEscolhida,j], " ")
+        escreva(matrizA[linhaEscolhida,j], " ")
     fimpara
 fimalgoritmo
